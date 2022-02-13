@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93fdae4d-f1a9-4be6-b618-f7d00649094a": {
+      "ProjectGuid": "93fdae4d-f1a9-4be6-b618-f7d00649094a",
+      "DisplayName": "OrderCalc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
